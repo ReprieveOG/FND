@@ -134,6 +134,24 @@ Markdown format:
 - “Image, Tell me your story!” Predicting the original meta-context of visual misinformation. [[link]](https://www.arxiv.org/abs/2408.09939) [[code]](https://github.com/UKPLab/5pils)
   - Jonathan Tonglet, Marie-Francine Moens, Iryna Gurevych. *EMNLP*, 2024
 
+- FakingRecipe: Detecting Fake News on Short Video Platforms from the Perspective of Creative Process. [[link]](https://dl.acm.org/doi/10.1145/3664647.3680663) [[code]](https://github.com/ICTMCG/FakingRecipe)
+  - Yuyan Bu, Qiang Sheng, Juan Cao, Peng Qi. *ACM MM*, 2024
+
+- Mitigating World Biases: A Multimodal Multi-View Debiasing Framework for Fake News Video Detection. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681673) 
+  - Zhi Zeng, Minnan Luo, Xiangzheng Kong. *ACM MM*, 2024
+
+- FKA-Owl: Advancing Multimodal Fake News Detection through Knowledge-Augmented LVLMs. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681089) [[code]](https://github.com/liuxuannan/FAK-Owl)
+  - Xuannan Liu, Peipei Li, Huaibo Huang. *ACM MM*, 2024
+
+- Harmfully Manipulated Images Matter in Multimodal Misinformation Detection. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681322) 
+  - Bing Wang, Shengsheng Wang, Changchun Li. *ACM MM*, 2024
+
+- MMDFND: Multi-modal Multi-Domain Fake News Detection. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681317) 
+  - Yu Tong, Weihai Lu, Zhe Zhao. *ACM MM*, 2024
+
+- Vaccine Misinformation Detection in X using Cooperative Multimodal Framework. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681422)
+  - Usman Naseem, Adam Dunn, Matloob Khushi, Jinman Kim. *ACM MM*, 2024
+
 
 
 
@@ -156,6 +174,9 @@ Markdown format:
 
 -  Leveraging Exposure Networks for Detecting Fake News Sources. [[link]](https://dl.acm.org/doi/10.1145/3637528.3671539) 
   - Maor Reuben, Lisa Friedland, Rami Puzis, Nir Grinberg. *KDD*, 2024
+
+- Mitigating Social Hazards: Early Detection of Fake News via Diffusion-Guided Propagation Path Generation. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681087) 
+  - Litian Zhang, Xiaoming Zhang, Chaozhuo Li. *ACM MM*, 2024
 
 
 
@@ -199,6 +220,8 @@ Markdown format:
 [wangbing1416/Awesome-Fake-News-Detection: An awesome paper list of fake news detection (FND) and rumor detection.](https://github.com/wangbing1416/Awesome-Fake-News-Detection)
 
 [llm-misinformation-survey](https://github.com/llm-misinformation/llm-misinformation-survey)
+
+[Awesome-Misinfo-Video-Detection](https://github.com/ICTMCG/Awesome-Misinfo-Video-Detection)
 
 
 
