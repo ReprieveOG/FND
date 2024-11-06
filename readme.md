@@ -73,6 +73,9 @@ Markdown format:
 
 - Fake News in Sheep’s Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks. [[link]](https://dl.acm.org/doi/10.1145/3637528.3671977) 
   - Jiaying Wu, Jiafeng Guo, Bryan Hooi. *KDD*, 2024
+- OUTFOX: LLM-Generated Essay Detection Through In-Context Learning with Adversarially Generated Examples. [[link]](https://arxiv.org/abs/2307.11729) [[code]](https://github.com/ryuryukke/OUTFOX)
+  - Ryuto Koike, Masahiro Kaneko, Naoaki Okazaki. *AAAI*, 2024
+
 
 
 
@@ -151,6 +154,15 @@ Markdown format:
 
 - Vaccine Misinformation Detection in X using Cooperative Multimodal Framework. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681422)
   - Usman Naseem, Adam Dunn, Matloob Khushi, Jinman Kim. *ACM MM*, 2024
+- Frequency Spectrum Is More Effective for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector. [[link]](https://arxiv.org/abs/2312.11023) [[code]](https://github.com/dm4m/FSRU)
+  - An Lao, Qi Zhang, Chongyang Shi. *AAAI*, 2024
+
+- Unveiling Implicit Deceptive Patterns in Multi-Modal Fake News via NeuroSymbolic Reasoning. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/28677) [[code]](https://github.com/hedongxiao-tju/NSLM)
+  - Yiqi Dong, Dongxiao He, Xiaobao Wang. *AAAI*, 2024
+
+- Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/29618) 
+  - Litian Zhang, Xiaoming Zhang, Chaozhuo Li. *AAAI*, 2024
+
 
 
 
@@ -177,6 +189,12 @@ Markdown format:
 
 - Mitigating Social Hazards: Early Detection of Fake News via Diffusion-Guided Propagation Path Generation. [[link]](https://dl.acm.org/doi/10.1145/3664647.3681087) 
   - Litian Zhang, Xiaoming Zhang, Chaozhuo Li. *ACM MM*, 2024
+- GAMC: An Unsupervised Method for Fake News Detection Using Graph Autoencoder with Masking. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/27788) 
+  - Shu Yin, Peican Zhu, Lianwei Wu. *AAAI*, 2024
+
+- Propagation Tree Is Not Deep: Adaptive Graph Contrastive Learning Approach for Rumor Detection. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/27757) [[code]](https://ojs.aaai.org/index.php/AAAI/article/view/27757)
+  - Chaoqun Cui, Caiyan Jia. *AAAI*, 2024
+
 
 
 
@@ -197,6 +215,14 @@ Markdown format:
 
 - MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents. [[link]](https://arxiv.org/abs/2404.10774) [[code]](https://github.com/Liyan06/MiniCheck)
   - Liyan Tang, Philippe Laban, Greg Durrett. *EMNLP*, 2024
+- Heterogeneous Graph Reasoning for Fact Checking over Texts and Tables. [[link]](https://arxiv.org/abs/2402.13028) 
+
+  - Haisong Gong, Weizhi Xu, Shu Wu. *AAAI*, 2024
+
+- Causal Walk: Debiasing Multi-Hop Fact Verification with Front-Door Adjustment. [[link]](https://arxiv.org/abs/2403.02698) [[code]](https://github.com/zcccccz/CausalWalk)
+
+  - Congzhi Zhang, Linhai Zhang, Deyu Zhou. *AAAI*, 2024
+
 
 
 
@@ -206,6 +232,9 @@ Markdown format:
   - Yupeng Li, Haorui He. *WWW*, 2024
 - The Largest Social Media Ground-Truth Dataset  for Real/Fake Content: TruthSeeker. [[link]](https://ieeexplore.ieee.org/document/10286332) [[code]](https://www.unb.ca/cic/datasets/truthseeker-2023.html)
   - Sajjad Dadkhah, Xichen Zhang, Alexander Gerald Weismann. IEEE Transactions on Computational Social Systems. 2023
+- CFEVER: A Chinese Fact Extraction and VERification Dataset. [[link]](https://arxiv.org/abs/2402.13025) [[code]](https://github.com/IKMLab/CFEVER-data)
+  - Ying-Jia Lin, Chun-Yi Lin, Chia-Jen Yeh. *AAAI*, 2024
+
 
 
 
