@@ -38,6 +38,9 @@ Markdown format:
 
 - Detecting and Mitigating the Dissemination of Fake  News: Challenges and Future  Research Opportunities. [[link]](https://ieeexplore.ieee.org/document/9789171)
   - Wajiha Shahid, Bahman Jamshidi, Saqib Hakak. IEEE Transactions on Computational Social Systems, 2022
+- Decoding the AI Pen: Techniques and Challenges in Detecting AI-Generated Text. [[link]](https://dl.acm.org/doi/10.1145/3637528.3671463) 
+  - Sara Abdali, Richard Anarfi, CJ Barberan, Jia He. *KDD*, 2024.
+
 
 
 
@@ -62,6 +65,15 @@ Markdown format:
   - Zhiwei Guo, Keping Yu, Alireza Jolfaei. IEEE Transactions on Intelligent Transportation Systems. 2022
 - Fake Review Detection Using Deep Neural  Networks with Multimodal Feature Fusion  Method. [[link]](https://ieeexplore.ieee.org/document/10476070) 
   - Xin Li, Lirong Chen. *ICPADS*, 2023
+- On Fake News Detection with LLM Enhanced Semantics Mining. [[link]](https://openreview.net/forum?id=Fd2mmQKFKW) 
+  - Xiaoxiao Ma, Yuchen Zhang, Kaize Ding. *EMNLP*, 2024
+
+- Decoding Susceptibility: Modeling Misbelief to Misinformation Through a Computational Approach. [[link]](https://arxiv.org/abs/2311.09630) 
+  - Yanchen Liu, Mingyu Derek Ma, Diyi Yang. *EMNLP*, 2024
+
+- Fake News in Sheep’s Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks. [[link]](https://dl.acm.org/doi/10.1145/3637528.3671977) 
+  - Jiaying Wu, Jiafeng Guo, Bryan Hooi. *KDD*, 2024
+
 
 
 
@@ -118,7 +130,10 @@ Markdown format:
 - Modality and Event Adversarial Networks for  Multi-Modal Fake News Detection. [[link]](https://ieeexplore.ieee.org/document/9794602)
   - Pengfei Wei, Fei Wu, Ying Sun. IEEE Signal Processing Letters. 2022.
 - FakeSV: A Multimodal Benchmark with Rich Social Context for Fake News Detection on Short Video Platforms. [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26689) [[code]](https://github.com/ICTMCG/FakeSV)
-  - Peng Qi, Yuyan Bu, Juan Cao. *AAAI*, 2023.
+  - Peng Qi, Yuyan Bu, Juan Cao. *AAAI*, 2023. 
+- “Image, Tell me your story!” Predicting the original meta-context of visual misinformation. [[link]](https://www.arxiv.org/abs/2408.09939) [[code]](https://github.com/UKPLab/5pils)
+  - Jonathan Tonglet, Marie-Francine Moens, Iryna Gurevych. *EMNLP*, 2024
+
 
 
 
@@ -136,6 +151,12 @@ Markdown format:
   - Zhuotao Lian, Chen Zhang, Chunhua Su. IEEE Transactions on Computational Social Systems, 2023.
 - MEFaND: A Multimodel Framework for  Early Fake News Detection. [[link]](https://ieeexplore.ieee.org/document/10430208)
   - Asma Sormeily, Sajjad Dadkhah. IEEE Transactions on Computational Social Systems, 2024.
+- Propagation Structure-Aware Graph Transformer for Robust and Interpretable Fake News Detection. [[link]](https://dl.acm.org/doi/10.1145/3637528.3672024) [[code]](https://github.com/JYZHU03/PSGT)
+  - Junyou Zhu, Chao Gao, Ze Yin, Xianghua Li, Juergen Kurths. *KDD*, 2024
+
+-  Leveraging Exposure Networks for Detecting Fake News Sources. [[link]](https://dl.acm.org/doi/10.1145/3637528.3671539) 
+  - Maor Reuben, Lisa Friedland, Rami Puzis, Nir Grinberg. *KDD*, 2024
+
 
 
 
@@ -149,8 +170,12 @@ Markdown format:
 - SNIFFER: Multimodal Large Language Model  for Explainable Out-of-Context Misinformation Detection. [[link]](https://ieeexplore.ieee.org/document/10656149) [[code]](https://github.com/MischaQI/Sniffer)
   - Peng Qi, Zehong Yan, Wynne Hsu. *CVPR*, 2024.
   - Multi-modal Detection, Explainable Detection
+- Do We Need Language-Specific Fact-Checking Models? The Case of Chinese. [[link]](https://arxiv.org/abs/2401.15498) 
+  - Caiqi Zhang, Zhijiang Guo, Andreas Vlachos. *EMNLP*, 2024
 
 
+- MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents. [[link]](https://arxiv.org/abs/2404.10774) [[code]](https://github.com/Liyan06/MiniCheck)
+  - Liyan Tang, Philippe Laban, Greg Durrett. *EMNLP*, 2024
 
 
 
@@ -172,6 +197,8 @@ Markdown format:
 [ICTMCG/LLM-for-misinformation-research: Paper list of misinformation research using (multi-modal) large language models, i.e., (M)LLMs.](https://github.com/ICTMCG/LLM-for-misinformation-research/)
 
 [wangbing1416/Awesome-Fake-News-Detection: An awesome paper list of fake news detection (FND) and rumor detection.](https://github.com/wangbing1416/Awesome-Fake-News-Detection)
+
+[llm-misinformation-survey](https://github.com/llm-misinformation/llm-misinformation-survey)
 
 
 
